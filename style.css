@@ -1,0 +1,28 @@
+.jumbotron {
+  width: 100%;
+  background-color: #feecd0;
+  padding-top: 8rem;
+}
+
+.projects {
+  background-color: #feecd0;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 5rem;
+}
+
+.projects img {
+  height: 450px;
+}
+.projects svg {
+  width: 100%;
+}
+
+.about {
+  padding-top: 6rem;
+}
+
+.contact {
+  padding-top: 5rem;
+}
